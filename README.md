@@ -1,5 +1,5 @@
 # JMS (Jave Messaging Service) Demo Project
-Based on John Thompson's course - https://github.com/springframeworkguru/sfg-jms
+Based on John Thompson's course - [https://github.com/springframeworkguru/sfg-jms](https://github.com/springframeworkguru/sfg-jms)
 
 ## Technology Used
 
