@@ -3,8 +3,9 @@ Based on John Thompson's course - [https://github.com/springframeworkguru/sfg-jm
 
 ## Technology Used
 
-1. Spring JMS Artemis and Artemis Server (Embedded)
-2. ActiveMQ - managed by Apache, donated by RedHat
+1. **Spring JMS Artemis and Artemis Server (Embedded)**
+2. **ActiveMQ** - managed by Apache, donated by RedHat
+3. **Docker**
 
 See [https://github.com/vromero/activemq-artemis-docker](https://github.com/vromero/activemq-artemis-docker) for ActiveMQ docker image implementation
 
