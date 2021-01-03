@@ -11,12 +11,12 @@ See [https://github.com/vromero/activemq-artemis-docker](https://github.com/vrom
 
 To run:
 
-run the Spring Boot application ensuring the embedded ActiveMQ server is **not** running
-in windows command line
-run
-docker run -it --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis
-
-log in and view server/message details
-
+run the Spring Boot application ensuring the embedded ActiveMQ server is **not** running  
+in windows command line  
+run  
+**docker run -it --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis**  
+  
+log in and view server/message details   
+  
 auto-refresh is on in the ActiveMQ management console, disable listener component in Spring app to keep it from
 refreshing every 2 seconds (as a new message is sent in the app every 2 seconds)
